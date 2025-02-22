@@ -10,4 +10,4 @@
 
 ## 3
 
-### Avarage text
+### Avarage tex
