@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Зміст
-      link: /markdown-examples
+      link: /zmist
     - theme: alt
       text: Студенти
-      link: /api-examples
+      link: /autors
 
 ---
 
