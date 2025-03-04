@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Лабораторна робота "
+  name: "FlexForm "
   text: "Виявлення вимог до функціональності програми. Розробка запитів зацікавлених осіб"
   actions:
     - theme: brand
