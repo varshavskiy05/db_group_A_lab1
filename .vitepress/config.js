@@ -1,5 +1,6 @@
 export default {
     title: "FlexForm",
+    base: "db_group_A_lab1", 
     themeConfig: {
         nav: [
             { text: "Головна", link: "/" },
