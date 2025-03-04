@@ -1,4 +1,9 @@
-.idea
-.vitepress/
+.idea/
 node_modules/
 package-lock.json
+
+# Исключаем всю папку .vitepress
+.vitepress/
+
+# Но оставляем конфиг-файл
+!.vitepress/config.js
